@@ -1,0 +1,9 @@
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\bin\Debug\MethodSample.exe.config
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\bin\Debug\MethodSample.exe
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\bin\Debug\MethodSample.pdb
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\obj\Debug\MethodSample.csprojResolveAssemblyReference.cache
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\obj\Debug\MethodSample.Form1.resources
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\obj\Debug\MethodSample.Properties.Resources.resources
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\obj\Debug\MethodSample.csproj.GenerateResource.Cache
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\obj\Debug\MethodSample.exe
+C:\Users\Fevaworks\Desktop\MethodSample\MethodSample\obj\Debug\MethodSample.pdb
