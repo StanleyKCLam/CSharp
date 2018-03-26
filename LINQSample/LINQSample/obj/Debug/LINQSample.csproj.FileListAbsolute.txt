@@ -1,0 +1,6 @@
+C:\Users\Fevaworks\Desktop\LINQSample\LINQSample\bin\Debug\LINQSample.exe.config
+C:\Users\Fevaworks\Desktop\LINQSample\LINQSample\bin\Debug\LINQSample.exe
+C:\Users\Fevaworks\Desktop\LINQSample\LINQSample\bin\Debug\LINQSample.pdb
+C:\Users\Fevaworks\Desktop\LINQSample\LINQSample\obj\Debug\LINQSample.csprojResolveAssemblyReference.cache
+C:\Users\Fevaworks\Desktop\LINQSample\LINQSample\obj\Debug\LINQSample.exe
+C:\Users\Fevaworks\Desktop\LINQSample\LINQSample\obj\Debug\LINQSample.pdb
