@@ -1,0 +1,35 @@
+C:\Users\kent_\Desktop\L3Sample\L3Sample\bin\Debug\L3Sample.exe.config
+C:\Users\kent_\Desktop\L3Sample\L3Sample\bin\Debug\L3Sample.exe
+C:\Users\kent_\Desktop\L3Sample\L3Sample\bin\Debug\L3Sample.pdb
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\L3Sample.csprojResolveAssemblyReference.cache
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\LoginPage.g.cs
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\App.g.cs
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\L3Sample_MarkupCompile.cache
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\L3Sample_MarkupCompile.lref
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\LoginPage.baml
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\L3Sample.g.resources
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\L3Sample.Properties.Resources.resources
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\L3Sample.csproj.GenerateResource.Cache
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\L3Sample.exe
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\L3Sample.pdb
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\Main.g.cs
+C:\Users\kent_\Desktop\L3Sample\L3Sample\obj\Debug\Main.baml
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\bin\Debug\L3Sample.exe.config
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\L3Sample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\L3Sample.pdb
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\bin\Debug\L3Sample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\bin\Debug\L3Sample.pdb
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\L3Sample.csprojResolveAssemblyReference.cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\LoginPage.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\Main.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\App.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\L3Sample_MarkupCompile.cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\L3Sample_MarkupCompile.lref
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\LoginPage.baml
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\Main.baml
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\L3Sample.g.resources
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\L3Sample.Properties.Resources.resources
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L3_20170227\L3Sample\L3Sample\obj\Debug\L3Sample.csproj.GenerateResource.Cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\bin\Debug\L3Sample.exe.config
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L3Sample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L3Sample.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="L4Sample.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:L4Sample"
+        mc:Ignorable="d"
+        Title="Main" Height="295.301" Width="556.876" FontSize="24">
+    <Grid>
+        <Label x:Name="lblSalesID" Content="Sales ID:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbxSalesID" HorizontalAlignment="Left" Margin="115,13,0,0" VerticalAlignment="Top" Width="200" SelectionChanged="cbxSalesID_SelectionChanged"/>
+        <Label x:Name="lblSalesInfo" Content="" HorizontalAlignment="Left" Margin="10,57,0,0" VerticalAlignment="Top" Width="500"/>
+        <Label x:Name="lblItems" Content="Items:" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbxItems" HorizontalAlignment="Left" Margin="115,107,0,0" VerticalAlignment="Top" Width="200">
+            <ComboBoxItem>Apple</ComboBoxItem>
+            <ComboBoxItem>Orange</ComboBoxItem>
+            <ComboBoxItem>Banana</ComboBoxItem>
+        </ComboBox>
+        <Label x:Name="lblGrade" Content="Grade:" HorizontalAlignment="Left" Margin="10,151,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtGrade" HorizontalAlignment="Left" Margin="115,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125"/>
+        <Label x:Name="lblQTY" Content="QTY:" HorizontalAlignment="Left" Margin="10,198,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtQTY" HorizontalAlignment="Left" Margin="115,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125"/>
+        <Button x:Name="btnConfirm" Content="Confirm" HorizontalAlignment="Left" Margin="390,201,0,0" VerticalAlignment="Top" Width="120" Click="btnConfirm_Click"/>
+        <Button x:Name="btnStudent" Content="Student" HorizontalAlignment="Left" Margin="390,16,0,0" VerticalAlignment="Top" Width="120" Click="btnStudent_Click"/>
+    </Grid>
+</Window>

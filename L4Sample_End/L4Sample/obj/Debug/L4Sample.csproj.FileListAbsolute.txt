@@ -1,0 +1,73 @@
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L4Sample.csprojResolveAssemblyReference.cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\LoginPage.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\Main.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\App.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L3Sample_MarkupCompile.cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L3Sample_MarkupCompile.lref
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L3Sample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L3Sample.pdb
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\bin\Debug\L3Sample.exe.config
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\bin\Debug\L3Sample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\bin\Debug\L3Sample.pdb
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\LoginPage.baml
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\Main.baml
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L3Sample.g.resources
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L3Sample.Properties.Resources.resources
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L3Sample\L3Sample\obj\Debug\L4Sample.csproj.GenerateResource.Cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\bin\Debug\L4Sample.exe.config
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\bin\Debug\L4Sample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\bin\Debug\L4Sample.pdb
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\L4Sample.csprojResolveAssemblyReference.cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\LoginPage.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\Main.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\App.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\L4Sample_MarkupCompile.cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\L4Sample_MarkupCompile.lref
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\LoginPage.baml
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\Main.baml
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\L4Sample.g.resources
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\L4Sample.Properties.Resources.resources
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\L4Sample.csproj.GenerateResource.Cache
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\L4Sample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\L4Sample.pdb
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\Students.g.cs
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample\L4Sample\obj\Debug\Students.baml
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample_Start\L4Sample\bin\Debug\L4Sample.exe.config
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample_Start\L4Sample\obj\Debug\L4Sample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20161228\L4Sample_Start\L4Sample\obj\Debug\L4Sample.pdb
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\bin\Debug\L4Sample.exe.config
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\bin\Debug\L4Sample.exe
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\bin\Debug\L4Sample.pdb
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\L4Sample.csprojResolveAssemblyReference.cache
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\LoginPage.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\Main.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\Students.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\App.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\L4Sample_MarkupCompile.cache
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\L4Sample_MarkupCompile.lref
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\LoginPage.baml
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\Main.baml
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\Students.baml
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\L4Sample.g.resources
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\L4Sample.Properties.Resources.resources
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\L4Sample.csproj.GenerateResource.Cache
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\L4Sample.exe
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L4_20170306\L4Sample_Start\L4Sample\obj\Debug\L4Sample.pdb
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\bin\Debug\L4Sample.exe.config
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\bin\Debug\L4Sample.exe
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\bin\Debug\L4Sample.pdb
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\L4Sample.csprojResolveAssemblyReference.cache
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\LoginPage.g.cs
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\Main.g.cs
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\Students.g.cs
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\App.g.cs
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\L4Sample_MarkupCompile.cache
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\L4Sample_MarkupCompile.lref
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\LoginPage.baml
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\Main.baml
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\Students.baml
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\L4Sample.g.resources
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\L4Sample.Properties.Resources.resources
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\L4Sample.csproj.GenerateResource.Cache
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\L4Sample.exe
+C:\Users\Fevaworks\Desktop\L4Sample_Start\L4Sample\obj\Debug\L4Sample.pdb
