@@ -1,0 +1,72 @@
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.csprojResolveAssemblyReference.cache
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\MainWindow.g.cs
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\App.g.cs
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample_MarkupCompile.cache
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample_MarkupCompile.lref
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\MainWindow.baml
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.g.resources
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.csproj.GenerateResource.Cache
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\Main.g.cs
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\Register.g.cs
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\Main.baml
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\Register.baml
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\Details.g.cs
+C:\Users\Fevaworks\Desktop\DatabaseSample\DatabaseSample\obj\Debug\Details.baml
+D:\Users\Kent\Desktop\20483_L5\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+D:\Users\Kent\Desktop\20483_L5\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+D:\Users\Kent\Desktop\20483_L5\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\kent_\Desktop\MS20483B\20483_L5\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\kent_\Desktop\MS20483B\20483_L5\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\kent_\Desktop\MS20483B\20483_L5\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\kent_\Synology\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.csprojResolveAssemblyReference.cache
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\Details.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\Main.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\MainWindow.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\Register.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\App.g.cs
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample_MarkupCompile.cache
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample_MarkupCompile.lref
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\Details.baml
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\Main.baml
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\MainWindow.baml
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\Register.baml
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.g.resources
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.csproj.GenerateResource.Cache
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\kent_\Documents\BTSync\Courseware\Microsoft Official Courseware\20483B - Programming in C#\20483_L5_20161228\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\bin\Debug\DatabaseSample.exe
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\bin\Debug\DatabaseSample.pdb
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\DatabaseSample.csprojResolveAssemblyReference.cache
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\Details.g.cs
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\Main.g.cs
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\MainWindow.g.cs
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\Register.g.cs
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\App.g.cs
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\DatabaseSample_MarkupCompile.cache
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\DatabaseSample_MarkupCompile.lref
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\Details.baml
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\Main.baml
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\MainWindow.baml
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\Register.baml
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\DatabaseSample.g.resources
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\DatabaseSample.csproj.GenerateResource.Cache
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\Fevaworks\Desktop\L5_DatabaseSample_Start\DatabaseSample_Start\DatabaseSample\obj\Debug\DatabaseSample.pdb
